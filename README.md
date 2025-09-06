@@ -5,8 +5,8 @@ sobre configuração e comparação de máquinas virtuais (VirtualBox e Android 
 
 #📋2. **Estrutura do Portifolio**
 ---
-- 📁 [README.md]
-- 📁 **relatorio.pdf** 
+- 📁 [Android_Studio]
+- 📁  
 - 📁 [vm_criadas]
 - 📁 [android-studio]
 - 📁 .[linhacomando]
