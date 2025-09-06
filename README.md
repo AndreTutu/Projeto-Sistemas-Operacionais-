@@ -3,7 +3,7 @@
 -Este Repositótio contém o relatótio e analise do primeiro módulo de nossa disciplina de Sistemas Operacionais, 
 sobre configuração e comparação de máquinas virtuais (VirtualBox e Android Studio).
 
-#📋2. **Estrutura do Portifolio**
+#📋2. **Estrutura do Portifólio**
 ---
 - 📁 [Android_Studio]
 - 📁 [Linha_comando]
