@@ -1,5 +1,5 @@
 #🖥️1. **Relatório - Módulo 1: Máquinas Virtuais e Sistemas Operacionais**
-Este Repositótio contém o relatótio e analise do primeiro módulo de nossa disciplina de Sistemas Operacionais, 
+-Este Repositótio contém o relatótio e analise do primeiro módulo de nossa disciplina de Sistemas Operacionais, 
 sobre configuração e comparação de máquinas virtuais (VirtualBox e Android Studio).
 
 #📋2. **Estrutura do Projeto**
