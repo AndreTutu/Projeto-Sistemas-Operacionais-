@@ -5,12 +5,12 @@ sobre configuração e comparação de máquinas virtuais (VirtualBox e Android 
 
 #📋2. **Estrutura do Portifólio**
 ---
-- 📁 [Android_Studio]
-- 📁 [Linha_comando]
-- 📁 [Virtual-Box]
-- 📁 [Vm_Criadas]
-- 📁 [README.md]
-- 📁 [relaório.pdf]       
+- 📁 [Android_Studio].(imagens)
+- 📁 [Linha_comando]. (imagens)
+- 📁 [Virtual-Box]. (imagens)
+- 📁 [Vm_Criadas]. (imagens)
+- 📁 [README.md]. (contextualização)
+- 📁 [relaório.pdf]. (arquivo pdf)       
 
 ---
 #🛠️3. **Tecnologias e Ferramentas Utilizadas**
