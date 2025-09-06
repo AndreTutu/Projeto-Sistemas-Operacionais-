@@ -9,8 +9,8 @@ sobre configuração e comparação de máquinas virtuais (VirtualBox e Android 
 - 📁 [Linha_comando]
 - 📁 [Virtual-Box]
 - 📁 [Vm_Criadas]
-- 📁 [
-- 📁 [       
+- 📁 [README.md]
+- 📁 [relaório.pdf]       
 
 ---
 #🛠️3. **Tecnologias e Ferramentas Utilizadas**
