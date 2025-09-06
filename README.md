@@ -6,11 +6,11 @@ sobre configuração e comparação de máquinas virtuais (VirtualBox e Android 
 #📋2. **Estrutura do Portifolio**
 ---
 - 📁 [Android_Studio]
-- 📁  
-- 📁 [vm_criadas]
-- 📁 [android-studio]
-- 📁 .[linhacomando]
-- 📁 [virtualbox]       
+- 📁 [Linha_comando]
+- 📁 [
+- 📁 [
+- 📁 [
+- 📁 [       
 
 ---
 #🛠️3. **Tecnologias e Ferramentas Utilizadas**
