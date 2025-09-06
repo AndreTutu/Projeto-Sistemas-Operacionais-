@@ -7,9 +7,10 @@ sobre configuração e comparação de máquinas virtuais (VirtualBox e Android 
 ---
 
 - 📁 **relatorio.pdf**
-- 📁 [assets]
+- 📁 [dados]
     - 📁 [vm_criadas]
     - 📁 [android-studio]
+    - 📁 .[linhacomando]
     - 📁 [virtualbox]
   - 📄 [README.md]           
 
