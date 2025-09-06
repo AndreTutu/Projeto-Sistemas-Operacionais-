@@ -7,8 +7,8 @@ sobre configuração e comparação de máquinas virtuais (VirtualBox e Android 
 ---
 - 📁 [Android_Studio]
 - 📁 [Linha_comando]
-- 📁 [
-- 📁 [
+- 📁 [Virtual-Box]
+- 📁 [Vm_Criadas]
 - 📁 [
 - 📁 [       
 
