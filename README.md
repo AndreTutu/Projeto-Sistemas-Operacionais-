@@ -4,19 +4,17 @@ sobre configuração e comparação de máquinas virtuais (VirtualBox e Android 
 
 #📋2. **Estrutura do Projeto**
 ---
-
-projeto/
-|
-|---relatorio/
-|     |--relatorio.pdf/
-|
-|------assets/
-|       |
-|        |--virtualbox/
-|        |--androidstudio/
-|        |--evidencias e metodologia/
-|       
-|----- README.md
+projeto-virtualizacao/
+│
+├── relatorio/               
+│   └── relatorio.pdf
+│
+├── assets/                  
+│   ├── virtualbox/
+│   ├── android-studio/
+│   └── evidencias e metodollogia/
+│
+└── README.md               
 
 ---
 #🛠️3. **Tecnologias e Ferramentas Utilizadas**
